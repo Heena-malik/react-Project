@@ -9,7 +9,7 @@ export const MenuList = [
   {
     name: "barger",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "The juicy, savory goodness of a perfectly cooked burger, complete with fresh toppings and soft buns, is a universally loved comfort food."  ,
     image: barger,
     price: 200,
   },
